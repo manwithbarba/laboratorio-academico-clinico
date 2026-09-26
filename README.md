@@ -85,7 +85,23 @@ La IA se utilizaría como apoyo para el aprendizaje y la investigación, no como
 - evaluar estudiantes sin una rúbrica revisada por docentes;
 - procesar datos identificables en servicios externos sin autorización institucional.
 
-## Qué IA se propone evaluar
+### Otras tareas posibles de la IA sobre la HCE
+
+Además de ordenar la información, recuperar evidencia y generar borradores, el prototipo puede estudiar:
+
+- captura y estructuración de texto, voz y formularios;
+- extracción de problemas, antecedentes, medicación, resultados y planes;
+- detección de faltantes, duplicaciones, inconsistencias y contradicciones;
+- sugerencia de codificación y mapeo entre SNOMED CT, LOINC, CIE-10 y perfiles locales;
+- sistemas de soporte a la toma de decisión basados en reglas o guías, con fuentes visibles;
+- alertas de resultados pendientes, controles vencidos, interacciones o tendencias;
+- identificación de cohortes para docencia, auditoría, investigación y planificación;
+- auditoría de calidad, completitud y consistencia del registro;
+- retroalimentación de actividades docentes mediante rúbricas revisadas por docentes;
+- preparación de síntesis de evidencia e informes para la gestión sanitaria.
+
+El grado de automatización debe ser diferente según el riesgo. Estructurar o recuperar información no equivale a recomendar una conducta clínica. Las funciones de soporte a la decisión deben mostrar reglas, evidencia, incertidumbre y límites, y nunca reemplazar el juicio profesional.
+`r`n## Qué IA se propone evaluar
 
 La maqueta publicada todavía **no tiene una IA conectada**. La propuesta para un piloto es evaluar un modelo de lenguaje de código abierto, ejecutado dentro de la infraestructura de la Facultad, con recuperación de contexto y supervisión humana.
 
