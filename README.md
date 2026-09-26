@@ -101,7 +101,8 @@ Además de ordenar la información, recuperar evidencia y generar borradores, el
 - preparación de síntesis de evidencia e informes para la gestión sanitaria.
 
 El grado de automatización debe ser diferente según el riesgo. Estructurar o recuperar información no equivale a recomendar una conducta clínica. Las funciones de soporte a la decisión deben mostrar reglas, evidencia, incertidumbre y límites, y nunca reemplazar el juicio profesional.
-`r`n## Qué IA se propone evaluar
+
+## Qué IA se propone evaluar
 
 La maqueta publicada todavía **no tiene una IA conectada**. La propuesta para un piloto es evaluar un modelo de lenguaje de código abierto, ejecutado dentro de la infraestructura de la Facultad, con recuperación de contexto y supervisión humana.
 
